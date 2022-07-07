@@ -111,6 +111,9 @@ la posición del polo de la aguja cambiará
 
 # VIDEO 
 
+https://youtu.be/1X02mmiLMdk
+
+
 # CONLUSUIONES
  1.- En conclusión es fundamental  el saber diferenciar entre energía y potencia para no cometer errores al emplear las formulas y conceptos en el estudio de circuitos eléctricos 
 
