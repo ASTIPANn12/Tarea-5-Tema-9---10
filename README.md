@@ -15,7 +15,14 @@
 
 # MARCO TEORICO
 
+![Untitled (7)](https://user-images.githubusercontent.com/105671364/170504505-c6160ea2-4b48-4587-aad2-923aad913e61.jpg)
+
+![Untitled (9)](https://user-images.githubusercontent.com/105671364/170531497-98fa0450-da34-4861-975d-5e9082e3047a.jpg)
+
+[Untitled (10)](https://user-images.githubusercontent.com/105671364/171230560-d3188faf-b6a2-41d1-a051-dfa78fc14fe1.jpg)
+
 # RESOLUCION  DE PROBLEMAS
+
 
 __SECCIÓN 9–1 Ecuaciones simultáneas en el análisis de circuitos__
 
@@ -101,4 +108,21 @@ __SECCIÓN 10–2 Electromagnetismo___
 6. ¿Qué le sucede a la aguja de la brújula mostrada en la figura 10-9 cuando la corriente que circula a través del conductor se invierte?
 
 la posición del polo de la aguja cambiará
+
+# VIDEO 
+
+# CONLUSUIONES
+ 1.- En conclusión es fundamental  el saber diferenciar entre energía y potencia para no cometer errores al emplear las formulas y conceptos en el estudio de circuitos eléctricos 
+
+2.- Se concluye que  la buena utilización  de la ley de ohm nos permitirá un mejor aprendizaje ya que esta ley se aplica para todos los circuitos que vayamos a utilizar.
+
+El uso de las unidades métricas serán fundamentales ya que se utiliza en la mayoría dejercicios que realicemos a lo largo del estudio de la materia.
+
+# BIBLIOGRAFIA
+ 
+ Principios de circuitos electricos Floyd-protegido.pdf. Google Docs. Recuperado el 26 de mayo de 2022, de https://drive.google.com/file/d/15UCq2JrPEKKB8SwajlmtTcE07nMiowaK/view
+
+Intensidad de cortocircuito. Recuperado el 26 de mayo de 2022, de https://www.areatecnologia.com/electricidad/intensidad-cortocircuito.html
+
+Bibguru.Com. Recuperado el 31 de mayo de 2022, de https://app.bibguru.com/p/a1c36376-1f02-44ae-9140-d4e8ce770b97
 
